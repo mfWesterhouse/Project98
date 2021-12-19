@@ -1,0 +1,1 @@
+"This is data from sample1 file.\n"
